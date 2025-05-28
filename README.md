@@ -66,8 +66,6 @@
 └── README.md                    # Project documentation
 ```
 
-> ⚠️ All files are placed directly in the root directory.
-
 ---
 
 ## 📦 Dataset
@@ -94,11 +92,6 @@ cd DemandCast-Electricity-Demand-Forecasting
 
 ```bash
 pip install -r requirements.txt
-```
-
-> 💡 Tip: Generate `requirements.txt` with:
-```bash
-pip freeze > requirements.txt
 ```
 
 ### 3. Run Preprocessing
